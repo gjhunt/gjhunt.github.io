@@ -77,7 +77,7 @@ textarea {
 html {
     \*background-color: #f7f3f2;*\
     color: #8e8b8a;
-    font: 12px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: 18px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 body {
     margin: 10%;
@@ -93,9 +93,14 @@ body {
         border-radius: 250px;
     }
 
-.content {
+.contentl {
     float: left;
-    width: 500px;
+    padding-right: 100px;
+    width: 400px;
+}
+.contentr {
+    float: left;
+    width: 700px;
 }
 .title {
     color: #464443;
@@ -162,11 +167,11 @@ ul, ol, dl,
     margin-bottom: 20px;
 }
 p {
-    font-size:15px;
+    font-size:18px;
 }
-ul, ol, dl {
+/*ul, ol, dl {
     list-style-type: none;
-}
+}*/
 a {
     color: #339999;
     font-weight: bold;
