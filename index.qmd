@@ -1,0 +1,144 @@
+::: {.hero}
+
+# Greg Hunt
+
+<p class="eyebrow">Statistician</p>
+
+Research, teaching, and scientific computing<br>
+across statistics, biology, physics, engineering, and more!
+
+[View CV](files/cv.pdf){.button}
+[Google Scholar](https://scholar.google.com/citations?user=9P_VwdgAAAAJ){.button .secondary}
+:::
+
+::: {.section .alt .about-section}
+
+## About
+
+::::: {.about-grid}
+
+:::: {.about-text}
+
+I am an interdisciplinary researcher who builds scientific tools. I am trained as a statistician, mathematician, and computer scientist. My work focuses on statistical methodology, applied data analysis, reproducible computing, and scientific software, with applications across biology, physics, engineering, and related scientific domains.
+
+::: {.section .contact #contact}
+
+#### Contact
+
+For professional or research correspondence, email me at:
+
+**ghunt@wm.edu**
+
+:::
+
+::::
+
+![](files/headshot.jpg){.headshot}
+
+:::::
+
+[CV](files/cv.pdf) · [Google Scholar](https://scholar.google.com/citations?user=9P_VwdgAAAAJ)
+:::
+
+::: {.cred-strip}
+<span>Statistical methodology</span>
+<span>Scientific computing</span>
+<span>Reproducible research</span>
+<span>Biomedical applications</span>
+<span>Engineering systems</span>
+:::
+
+::: {.section .services-section}
+
+## Projects
+
+Selected research and software projects.
+
+::: {.cards}
+
+::: {.card .service-card}
+<p class="service-tag">Reproducibility</p>
+
+### Reproducible research
+
+[Everyday reproducibility](https://gjhunt.github.io/repro_course)  
+A short course on practical reproducibility.
+
+[Containerizing](https://gjhunt.github.io/containerize)  
+Tools and examples for reproducible, interactive, and shareable analyses.
+:::
+
+::: {.card .service-card}
+<p class="service-tag">Clinical trials</p>
+
+### Clinical trial methods
+
+[pgc](https://gjhunt.github.io/pgc)  
+Poisson-gamma combine for clinical trials.
+:::
+
+::: {.card .service-card}
+<p class="service-tag">Imaging</p>
+
+### Image-based cell profiling
+
+[rr](https://gjhunt.github.io/rr)  
+Robust re-scaling to help reveal latent structure.
+
+[mema_norm](https://gjhunt.github.io/mema_norm)  
+Robust normalization of high-throughput imaging assays.
+:::
+
+::: {.card .service-card}
+<p class="service-tag">Engineering</p>
+
+### Hypersonics and engineering
+
+[svsa](https://gjhunt.github.io/svsa)  
+Support vector spectrum approximator for quick approximations of spectra.
+
+[app](https://gjhunt.github.io/app)  
+Adaptive pressure profile shock train tracking for dual-mode sc/ramjets.
+
+[kars](https://gjhunt.github.io/kars)  
+Kernel approximation of Raman spectra.
+:::
+
+::: {.card .service-card}
+<p class="service-tag">Deconvolution</p>
+
+### Cell-type proportion estimation
+
+[hspe](https://gjhunt.github.io/hspe)  
+Hybrid-scale proportion estimation.
+
+[dtangle](https://gjhunt.github.io/dtangle)  
+Quick and accurate cell-type deconvolution.
+:::
+
+:::
+:::
+
+::: {.section .alt}
+
+## Teaching
+
+My teaching is centered around statistics, data science, and applied quantitative methods.
+
+Selected program links:
+
+::: {.project-list}
+- [Applied Statistics concentration](https://www.wm.edu/as/cams/applied-statistics/index.php) of the [Computational & Applied Mathematics & Statistics](https://www.wm.edu/as/cams/) major
+- [Statistics concentration](https://www.wm.edu/as/mathematics/undergrad/major/statistics/) of the [Mathematics](https://www.wm.edu/as/mathematics/) major
+:::
+
+Currently teaching: on leave
+
+<!--
+Currently teaching:
+
+1. [MATH 452/552](https://gjhunt.github.io/452fall24) | Mathematical Statistics | Fall 2024
+2. [MATH 455/555](https://gjhunt.github.io/455fall24) | Statistical Learning | Fall 2024
+-->
+
+:::

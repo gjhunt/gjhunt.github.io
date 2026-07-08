@@ -1,0 +1,30 @@
+[tools]
+python = "3.13.7"
+
+
+[tasks.setup]
+description = "Set up Python, R, and Jupyter kernels"
+run = """
+python -m venv .venv
+
+.venv/bin/python -m pip install --upgrade pip
+
+.venv/bin/python -m pip install \
+    jupyter \
+    jupytext \
+    ipykernel \
+    nb-clean \
+    nbdev \
+    nbdime
+
+
+
+.venv/bin/python -m ipykernel install \
+    --prefix=.venv \
+    --name=python_venv \
+    --display-name "Python (.venv)"
+
+.venv/bin/nbdev-install-hooks
+
+
+"""

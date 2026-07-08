@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Greg Hunt",
+    "section": "",
+    "text": "Statistician\n\nResearch, teaching, and scientific computing across statistics, biology, physics, engineering, and more!\nView CV Google Scholar"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Greg Hunt",
+    "section": "About",
+    "text": "About\n\n\nI am an interdisciplinary researcher who builds scientific tools. I am trained as a statistician, mathematician, and computer scientist. My work focuses on statistical methodology, applied data analysis, reproducible computing, and scientific software, with applications across biology, physics, engineering, and related scientific domains.\n\nContact\nFor professional or research correspondence, email me at:\nghunt@wm.edu\n\n\n\n\nCV · Google Scholar"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Greg Hunt",
+    "section": "Projects",
+    "text": "Projects\nSelected research and software projects.\n\n\n\nReproducibility\n\n\nReproducible research\nEveryday reproducibility\nA short course on practical reproducibility.\nContainerizing\nTools and examples for reproducible, interactive, and shareable analyses.\n\n\n\n\nClinical trials\n\n\nClinical trial methods\npgc\nPoisson-gamma combine for clinical trials.\n\n\n\n\nImaging\n\n\nImage-based cell profiling\nrr\nRobust re-scaling to help reveal latent structure.\nmema_norm\nRobust normalization of high-throughput imaging assays.\n\n\n\n\nEngineering\n\n\nHypersonics and engineering\nsvsa\nSupport vector spectrum approximator for quick approximations of spectra.\napp\nAdaptive pressure profile shock train tracking for dual-mode sc/ramjets.\nkars\nKernel approximation of Raman spectra.\n\n\n\n\nDeconvolution\n\n\nCell-type proportion estimation\nhspe\nHybrid-scale proportion estimation.\ndtangle\nQuick and accurate cell-type deconvolution."
+  },
+  {
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
+    "title": "Greg Hunt",
+    "section": "Teaching",
+    "text": "Teaching\nMy teaching is centered around statistics, data science, and applied quantitative methods.\nSelected program links:\n\n\nApplied Statistics concentration of the Computational & Applied Mathematics & Statistics major\nStatistics concentration of the Mathematics major\n\n\nCurrently teaching: on leave"
+  }
+]

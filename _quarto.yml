@@ -1,0 +1,13 @@
+project: 
+  type: website
+  output-dir: docs
+
+website:
+  title: "Greg Hunt | Statistician"
+  navbar: true
+
+format:
+  html:
+    theme: cosmo
+    css: assets/styles.css
+    page-layout: full
