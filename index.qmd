@@ -136,13 +136,4 @@ Selected program links:
 - [Statistics concentration](https://www.wm.edu/as/mathematics/undergrad/major/statistics/) of the [Mathematics](https://www.wm.edu/as/mathematics/) major
 :::
 
-Currently teaching: on leave
-
-<!--
-Currently teaching:
-
-1. [MATH 452/552](https://gjhunt.github.io/452fall24) | Mathematical Statistics | Fall 2024
-2. [MATH 455/555](https://gjhunt.github.io/455fall24) | Statistical Learning | Fall 2024
--->
-
 :::
